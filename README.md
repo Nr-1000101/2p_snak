@@ -10,6 +10,10 @@ Other useful links:
 
 Neat installation: https://neat-python.readthedocs.io/en/latest/installation.html
 
+Visualize module: https://github.com/CodeReclaimers/neat-python/blob/master/examples/xor/visualize.py
+
+Graphviz installation: https://pypi.org/project/graphviz/
+
 Pygame installation: https://www.pygame.org/wiki/GettingStarted 
 
 Feel free to do anything with this. 
