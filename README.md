@@ -1,4 +1,4 @@
-# 2Psnake
+# 2p_snak
 
 Hello fellow earthlings!
 
