@@ -6,8 +6,6 @@ This is a tweakable 2 (or 1) player snake game that I coded with python pygame l
 
 This is the result:
 
-![alt text](https://github.com/Nr-1000101/2p_snak/blob/master/NNvsNN.gif?raw=true)
-
 <p align="center">
   <picture>
     <img src="NNvsNN.gif" alt="NNvsNN.gif"/>
