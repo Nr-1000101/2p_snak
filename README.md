@@ -8,6 +8,12 @@ This is the result:
 
 ![alt text](https://github.com/Nr-1000101/2p_snak/blob/master/NNvsNN.gif?raw=true)
 
+<p align="center">
+  <picture>
+    <img src="NNvsNN.gif" alt="NNvsNN.gif"/>
+  </picture>
+</p>
+
 I started out from this example https://www.youtube.com/watch?v=CD4qAhfFuLo for snake part of code and https://www.youtube.com/watch?v=MMxFDaIOHsE&list=PLzMcBGfZo4-lwGZWXz5Qgta_YNX3_vLS2&index=1 for overview of NEAT functionality and upgraded/polished the code to suit my needs.
 Best place to consult in case something goes awry is still the documentation of respective modules.
 
